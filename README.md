@@ -12,10 +12,10 @@ The dashboard provides a clear view of key business metrics and allows users to 
 ---
 🚀 Features
 
-KPI Cards (Sales, Profit, Quantity, etc.)
+- KPI Cards (Sales, Profit, Quantity, etc.)
 
-Interactive Slicers for filtering data (e.g., Year, Category, Region)
+- Interactive Slicers for filtering data (e.g., Year, Category, Region)
 
-Pivot Tables & Charts for quick data analysis
+- Pivot Tables & Charts for quick data analysis
 
-Clean and professional dashboard design
+- Clean and professional dashboard design
