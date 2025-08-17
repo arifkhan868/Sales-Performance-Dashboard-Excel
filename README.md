@@ -10,7 +10,7 @@ This project showcases an interactive Excel Dashboard built using Pivot Tables, 
 The dashboard provides a clear view of key business metrics and allows users to filter and analyze data dynamically.
 
 ---
-🚀 Features
+## 🚀 Features
 
 - KPI Cards (Sales, Profit, Quantity, etc.)
 
@@ -19,3 +19,14 @@ The dashboard provides a clear view of key business metrics and allows users to 
 - Pivot Tables & Charts for quick data analysis
 
 - Clean and professional dashboard design
+
+---
+## 🛠 Tools Used
+
+- Microsoft Excel
+
+- Pivot Table & Pivot Chart
+
+- Slicers for interactivity
+
+- Conditional Formatting
