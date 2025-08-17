@@ -34,6 +34,8 @@ The dashboard provides a clear view of key business metrics and allows users to 
 ---
 ## 📷 Dashboard Preview
 
+- <a href="https://github.com/arifkhan868/Sales-Performance-Dashboard-Excel/blob/main/Sales_dashboard_Excel.PNG">View Sales Dashboard</a>
+
 ---
 ## 📥 How to Use
 
