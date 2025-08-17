@@ -37,8 +37,8 @@ The dashboard provides a clear view of key business metrics and allows users to 
 ---
 ## 📥 How to Use
 
--- Download the Dashboard.xlsx file
+- Download the Dashboard.xlsx file
 
--- Open with Microsoft Excel (2016 or later recommended)
+- Open with Microsoft Excel (2016 or later recommended)
 
--- Use the slicers and filters to explore insights
+- Use the slicers and filters to explore insights
